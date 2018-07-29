@@ -18,3 +18,18 @@ no need to adjust from default check box
 5. type `activate openai`
 6. type `pip install gym`
 7. _PROFIT !_
+
+---
+
+# Additional
+_when you need to ues OpenAI with Tensorflow_
+
+---
+
+1. execute `Anaconda Prompt`
+2. type `activate openai`
+3. type `pip install --ignore-installed --upgrade tensorflow-gpu`  
+
+because I gonna use tensorflow supporting gpu
+
+4. _PROFIT !_
